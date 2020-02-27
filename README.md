@@ -69,4 +69,9 @@ jobs:
 ```
 </details>
 
-#### (Together) Make our very own Hello World action
+#### 3. (Together) Make our very own Hello World action
+
+## 🏅 Extra credit
+
+* [Write your own action](https://help.github.com/en/actions/building-actions/about-actions)
+* [Publish it to GitHub Marketplace](https://help.github.com/en/actions/building-actions/publishing-actions-in-github-marketplace)
