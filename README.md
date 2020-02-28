@@ -12,7 +12,7 @@ GitHub Actions can do much more than CI/CD. In this section, we'll consider how 
 
 <details><summary>Hints</summary>
 
-1. Browse a certain [awesome list of actions](https://github.com/sdras/awesome-actions) for ideas.
+1. Browse [GitHub Marketplace](https://github.com/marketplace), this [awesome list of actions](https://github.com/sdras/awesome-actions), or Google for ideas.
 
 2. The [`actions` org](https://github.com/actions) has some interesting actions, but so does the community 👀.
 
