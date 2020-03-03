@@ -1,0 +1,14 @@
+name: "Triage"
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Naturalclar/issue-action@v1.0.0
+        with:
+          keywords: '[""]'
+          labels: '["triage"]'
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
